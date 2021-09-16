@@ -34,9 +34,3 @@ int* solution(int enter[], size_t enter_len, int leave[], size_t leave_len) {
     }
     return answer;
 }
-
-int main() {
-    int ent[4] = { 1,4,2,3 };
-    int lev[4] = { 2,1,3,4 };
-    solution(ent, 4, lev, 4);
-}
