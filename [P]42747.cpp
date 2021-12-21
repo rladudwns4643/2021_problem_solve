@@ -22,8 +22,3 @@ int solution(vector<int> citations) {
     }
     return answer;
 }
-
-int main() {
-    vector<int> vv{ 7,6,5,1,1 };
-    solution(vv);
-}
