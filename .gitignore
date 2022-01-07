@@ -62,3 +62,16 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/c++,windows
+*.db
+.vs/Problem_Solve/v16/.suo
+.vs/Problem_Solve/v16/.suo
+*.ipch
+*.recipe
+*.ilk
+*.log
+*.pdb
+*.tlog
+*.lastbuildstate
+*.txt
+*.pdb
+*.idb
