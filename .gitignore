@@ -63,17 +63,13 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/c++,windows
 *.db
-.vs/Problem_Solve/v16/.suo
-.vs/Problem_Solve/v16/.suo
 *.ipch
-*.recipe
 *.ilk
 *.log
 *.pdb
 *.tlog
-*.lastbuildstate
-*.txt
-*.pdb
-*.idb
 .vs/Problem_Solve/v16/.suo
-.vs/Problem_Solve/v16/Browse.VC.db
+*.log
+x64/Debug/Problem_Solve.vcxproj.FileListAbsolute.txt
+*.idb
+*.pdb
