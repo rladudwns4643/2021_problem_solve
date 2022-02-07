@@ -1,3 +1,0 @@
-﻿  test.cpp
-D:\OneDrive\Project\2021_problem_solve\test.cpp(12,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  Problem_Solve.vcxproj -> D:\OneDrive\Project\2021_problem_solve\Debug\Problem_Solve.exe
