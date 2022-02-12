@@ -1,7 +1,7 @@
-# Problem_Solve
- 
+# Today I Commit(learn)
+_Problem Solve_
 Commit Rule
 
-1. Commit Ã¹ ÁÙÀº githubDesktop ±âº»
-2. µÎ ¹øÂ° ÁÙÀº °É¸° ½Ã°£ "Time: "
-3. ¼¼ ¹øÂ° ÁÙÀº ¹ß»ı ¹®Á¦Á¡, °í¹ÎÇß´ø ºÎºĞ "Etc: "
+1. Commit ì²« ì¤„ì€ githubDesktop ê¸°ë³¸
+2. ë‘ ë²ˆì§¸ ì¤„ì€ ê±¸ë¦° ì‹œê°„ "Time: "
+3. ì„¸ ë²ˆì§¸ ì¤„ì€ ë°œìƒ ë¬¸ì œì , ê³ ë¯¼í–ˆë˜ ë¶€ë¶„ "Etc: "
